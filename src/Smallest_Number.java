@@ -1,4 +1,4 @@
-public class Larget_Number {
+public class Smallest_Number {
     public static void main(String[] args) {
 
         //Initializattion of array
@@ -28,7 +28,7 @@ public class Larget_Number {
             System.out.print(arr[i] + " ");
         }
         System.out.println();
-        System.out.println("The second largest number is:: "+arr[arr.length-1]);
+        System.out.println("The second largest number is:: "+arr[0]);
 
     }
 }
