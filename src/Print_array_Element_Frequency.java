@@ -1,4 +1,4 @@
-public class Print_array_Element {
+public class Print_array_Element_Frequency {
     public static void main(String[] args)
     {
         //Initialization of array
